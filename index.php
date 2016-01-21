@@ -31,7 +31,7 @@ $subjectsArray=$object->getAllSubject();
 			</div>
             
 <div class="collapse navbar-collapse" id="navbar-collapse-1">
-<ul class="nav navbar-nav pull-right mainNav">
+<ul class="nav navbar-nav pull-right mainNav"> 
 <li><a href="index.php">Courses</a></li>
  <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Student<b class="caret"></b></a> 
